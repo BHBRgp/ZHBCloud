@@ -4,7 +4,7 @@
 
 ### Websites
 
-|Website Name  | Link | 
+| Website Name | Link | Description | 
 |--|--|
 |  |  |
 
